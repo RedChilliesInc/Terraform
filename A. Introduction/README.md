@@ -6,11 +6,11 @@
 "What!!" Jeff uttered involuntarily\
 "Yeah, Thor like Terraform does real better job than me in rescuing you from this"\
 "John, Common make a cut, make it clear to me" yelled Jeff while John was about to start,\
-John picked up and started off saying, to you, yeah it to you, who is reading this.,\
+John picked up and started off saying, to you, yeah it to you, who is reading this.,
 
-Infrastructure as Code (IaC) infers provisioning of infrastructure through code instead of through manual processes.Yes! that's you've heard right., Oh Let's read it one more time IaC is nothing more than the replacement of the traditional manual provisioning of infrastructure through administration consoles/GUIs by programming/development based approach (think scripting).\
+Infrastructure as Code (IaC) infers provisioning of infrastructure through code instead of through manual processes.Yes! that's you've heard right., Oh Let's read it one more time IaC is nothing more than the replacement of the traditional manual provisioning of infrastructure through administration consoles/GUIs by programming/development based approach (think scripting).
 
-Sounds Intresting, we felt it., lets go furthe to understand further..,\
+Sounds Intresting, we felt it., lets go furthe to understand further..,
 
 With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations. It also ensures that you provision the same environment every time. By codifying and documenting your configuration specifications, IaC aids configuration management and helps you to avoid undocumented, ad-hoc configuration changes in short entire infra self-documented by code.,\
 
