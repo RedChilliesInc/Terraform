@@ -12,9 +12,9 @@ Infrastructure as Code (IaC) is provisioning of infrastructure through code inst
 
 IaC is nothing more than the replacement of the traditional manual provisioning of infrastructure through administration consoles/GUIs by programming/development based approach (think scripting).
 
-> Sounds Intresting, we felt it., lets go furthe to understand further..,
+Sounds Intresting, we felt it as well for the first time., lets go furthe to understand further..,
 
-With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations. It also ensures that you provision the same environment every time. By codifying and documenting your configuration specifications, IaC aids configuration management and helps you to avoid undocumented, ad-hoc configuration changes in short entire infra self-documented by code.,
+With IaC, infrastructure specification is codified, which makes it easier to edit and distribute ensuring you to provision the same environment over and over. By codifying and documenting specifications, IaC avoids undocumented, ad-hoc changes in short entire infra self-documented by code.,
 
 So you might be wondering now what are advantages of using IaC, why should I use it first in place., just like Jeff.,
 
