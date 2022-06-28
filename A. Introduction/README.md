@@ -1,4 +1,5 @@
-# Overview
+## Overview
+### What is Infrastructure is Code
 
 Infrastructure as Code (IaC) is provisioning of infrastructure through code instead of through manual processes.
 
