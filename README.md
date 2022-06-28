@@ -1,5 +1,5 @@
 # Terraform - Beginner to Advanced course
-Welcome to the Infrastructure as Code simplified using the Hashicorp Terraform
+Welcome to the Infrastructure as Code simplified by Hashicorp Terraform
 
 This repo contains all the code & examples files used throughout the Terraform - Beginner to Advanced course.
 
