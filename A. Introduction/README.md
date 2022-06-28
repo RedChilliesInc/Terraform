@@ -1,6 +1,7 @@
 # Overview
 
-"Hey Jeff, Why are looking worried" asked John walking towards.,\"I am panciked, If I will be able to complete my tasks before line, so much to do to setting up Dev & Application environments, so much changes last hour, so many surprises last minute" pale looking Jeff replied
+"Hey Jeff, Why are looking worried" asked John walking towards.,\
+"I am panciked, If I will be able to complete my tasks before line, so much to do to setting up Dev & Application environments, so much changes last hour, so many surprises last minute" pale looking Jeff replied
 "Oh, I wished I could help you but I wouldn't" said John, turning Jeff from anguish to anxiety
 "What!!" Jeff uttered involuntarily
 "Yeah, Thor like Terraform does real better job than me in rescuing you from this"
