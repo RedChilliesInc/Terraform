@@ -1,13 +1,5 @@
 # Overview
 
-"Hey Jeff, Why are looking worried" asked John walking towards.,\
-"I am panciked, If I will be able to complete my tasks before line, so much to do to setting up Dev & Application environments, so much changes last hour, so many surprises last minute" pale looking Jeff replied\
-"Oh, I wished I could help you but I wouldn't" said John, turning Jeff from anguish to anxiety\
-"What!!" Jeff uttered involuntarily\
-"Yeah, Thor like Terraform does real better job than me in rescuing you from this"\
-"John, Common make a cut, make it clear to me" yelled Jeff while John was about to start,\
-John picked up and started off saying, to you, yeah it to you, who is reading this.,
-
 Infrastructure as Code (IaC) is provisioning of infrastructure through code instead of through manual processes. Yes! that's you've heard right., Oh Let's read it one more time.
 
 IaC is nothing more than the replacement of the traditional manual provisioning of infrastructure through administration consoles/GUIs by programming/development based approach (think scripting).
