@@ -16,8 +16,6 @@ With IaC, configuration files are created that contain your infrastructure speci
 
 So you might be wondering now what are advantages of using IaC, why should I use it first in place., just like Jeff.,
 
-Speed & Simple - Run the code, Go grab a coffee and comeback to see your Infra resouces up and running. IaC enables you provision resouces faster.
-
-Configuration Consistency - We sometimes misinterpret, get bored, make mistakes and tend to forget. IaC serves as source of truth for all infra tasks when used. Yeah just like Starbucks coffee, you find consistency across places when using IaC. Guess the reason? because you just started operating code than resouces,
-
-Reusability - Surely yu might have come across DRY principle sometime, expanding it infers Don't Repeat Yourself. Yes, using IaC enables you create same infra over & over in Dev, QA, UAT, Stage & Prod, and just that in different project, different team, literally anywhere all just you have do it run it, yeah just run the code in the same way you did it first time.
+- Speed & Simple : Run the code, Go grab a coffee and comeback to see your Infra resouces up and running. IaC enables you provision resouces faster.
+- Configuration Consistency : We sometimes misinterpret, get bored, make mistakes and tend to forget. IaC serves as source of truth for all infra tasks when used. Yeah just like Starbucks coffee, you find consistency across places when using IaC. Guess the reason? because you just started operating code than resouces,
+- Reusability : Surely yu might have come across DRY principle sometime, expanding it infers Don't Repeat Yourself. Yes, using IaC enables you create same infra over & over in Dev, QA, UAT, Stage & Prod, and just that in different project, different team, literally anywhere all just you have do it run it, yeah just run the code in the same way you did it first time.
