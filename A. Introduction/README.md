@@ -19,5 +19,5 @@ With IaC, infrastructure specification is codified, which makes it easier to edi
 So you might be wondering now what are advantages of using IaC, why should I use it first in place., just like Jeff.,
 
 - Speed & Simple            : Run the code, Go grab a coffee and comeback to see your Infra resouces up and running like a magic.,
-- Configuration Consistency : We sometimes misinterpret, get bored, make mistakes and tend to forget. IaC serves as source of truth for all infra tasks when used. Yeah just like Starbucks coffee, you find consistency across places when using IaC. Guess the reason? because you just started operating code than resouces,
+- Configuration Consistency : We sometimes misinterpret, get bored, make mistakes and tend to forget while IaC doesn't. Yeah just like Starbucks coffee, you find consistency across places. Guess the reason? because you just started operating code than resouces,
 - Reusability               : DRY infering  Don't Repeat Yourself. IaC enables you create same infra over & over any number of times all just you have do it run it, yeah just run the code in the same way you did it first time.
